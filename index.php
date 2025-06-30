@@ -105,7 +105,7 @@
           <div class="row">
             <div class="col-lg-9 text-center text-lg-left">
               <h3>We've completed more than <span>23 projects</span> since inception year!</h3>
-              <p>Since its inception over five years ago, the company has successfully completed numerous large-scale plumbing projects, establishing itself as a trusted plumbing partner for many organizations across South Africa.</p>
+              <p>Since its inception over five years ago, Mden Projects has successfully completed numerous large-scale pool service and maintenance projects, establishing itself as a trusted pool solutions partner for estates, commercial properties, and organizations across South Africa.</p>
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
               <a class="cta-btn align-middle" href="services.php">Read More</a>
@@ -130,7 +130,7 @@
           <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
             <h4 class="title"><a href="">Registered Company</a></h4>
-            <p class="description">As a registered plumbing company, our geyser repairs and replacements are recognized and accepted by insurance companies, ensuring a hassle-free claims process for our clients.</p>
+            <p class="description">As a registered pool services company, our pool equipment repairs and replacements—including pumps, filters, and heating systems—are recognized and accepted by insurance companies, ensuring a smooth, hassle-free claims process for our clients across South Africa.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
