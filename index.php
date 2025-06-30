@@ -52,7 +52,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Welcome to <span><?php echo "$company"; ?></span></h2>
-        <p><?php echo "$company"; ?> specializes in providing top-quality plumbing services for residential, commercial, and complex projects. Our comprehensive range of solutions is tailored to meet your specific needs, ensuring reliability, efficiency, and customer satisfaction.</p>
+        <p><?php echo "$company"; ?> specializes in providing top-quality pool services for residential, commercial, and complex projects. Our comprehensive range of solutions is tailored to meet your specific needs, ensuring reliability, efficiency, and customer satisfaction.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
@@ -63,7 +63,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Our Goal</h2>
-        <p>Need a reliable Plumber Near You? <?php echo "$company"; ?> offers fast, 24/7 service with guaranteed workmanship and SANS-compliant solutions. Trust us for all your plumbing needs.</p>
+        <p>Need reliable Pool Services Near You? <?php echo "$company"; ?> offers fast, 24/7 service with guaranteed workmanship and SANS-compliant solutions. Trust us for all your pool needs.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
