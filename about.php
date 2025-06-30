@@ -121,14 +121,14 @@
           </div>
 
           <div class="progress">
-            <span class="skill">Pipefitting <i class="val">100%</i></span>
+            <span class="skill">General Pool Service <i class="val">100%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Water Filtration Systems<i class="val">100%</i></span>
+            <span class="skill">Pool Leak Detection<i class="val">100%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
@@ -159,28 +159,28 @@
         <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
           <div class="progress">
-            <span class="skill">Water Pressure Regulation  <i class="val">90%</i></span>
+            <span class="skill">Blocked Pool Pipes  <i class="val">90%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Leak Detection <i class="val">95%</i></span>
+            <span class="skill">Pool Hydro Jetting <i class="val">95%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Drain Cleaning <i class="val">97%</i></span>
+            <span class="skill">24/7 Emergency Pool Services <i class="val">97%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
           </div>
 
           <div class="progress">
-            <span class="skill">Knowledge of Plumbing Codes and Regulations  <i class="val">95%</i></span>
+            <span class="skill">Pool Water Filtration & Treatment Systems  <i class="val">95%</i></span>
             <div class="progress-bar-wrap">
               <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
             </div>
