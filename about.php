@@ -66,29 +66,29 @@
         <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start" data-aos="fade-right"></div>
         <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
           <div class="content d-flex flex-column justify-content-center">
-            <h3 data-aos="fade-up"><?php echo "$company"; ?>  a plumbing company</h3>
+            <h3 data-aos="fade-up"><?php echo "$company"; ?>  a pool company</h3>
             <p data-aos="fade-up">
-            If you are looking for a professional plumbing service, you have come to the right place. Welcome to The <?php echo "$company"; ?>—your premier choice for expert plumbing solutions in Gauteng, including Sandton and surrounding areas. Based in Sandton, The Prestige Plumbers is committed to delivering top-quality residential and commercial plumbing services.            </p>
+            If you're looking for professional pool services, you've come to the right place. Welcome to The <?php echo "$company"; ?>— your premier choice for expert swimming pool solutions across Gauteng, including Sandton and surrounding areas.            </p>
             <div class="row">
               <div class="col-md-6 icon-box" data-aos="fade-up">
                 <i class="bx bx-receipt"></i>
                 <h4>Our Vision</h4>
-                <p>To enhance spaces and improve lives through expert plumbing solutions, ensuring reliable, efficient, and long-lasting systems that meet the unique needs and vision of every client.</p>
+                <p>To enhance spaces and improve lives through expert pool solutions, ensuring clean, safe, and beautifully maintained pools that reflect the unique needs and vision of every client.</p>
               </div>
               <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
                 <i class="bx bx-cube-alt"></i>
                 <h4>Vision Continued</h4>
-                <p>We aim to set the standard for excellence in the plumbing industry through innovation, reliability, and a commitment to unmatched customer satisfaction.</p>
+                <p>We aim to set the standard for excellence in the pool services industry through innovation, reliability, and a commitment to unmatched customer satisfaction.</p>
               </div>
               <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
                 <i class="bx bx-images"></i>
                 <h4>Customer Obsession</h4>
-                <p>We are committed to delivering superior craftsmanship, personalized customer experiences, and sustainable solutions that bring color and life to every project.</p>
+                <p>We are committed to delivering superior craftsmanship, personalized customer experiences, and sustainable pool solutions that bring beauty, relaxation, and life to every project.</p>
               </div>
               <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
                 <i class="bx bx-shield"></i>
                 <h4>Actionable insights</h4>
-                <p>By blending creativity, quality, and integrity, we aim to exceed expectations and leave a lasting impression in every home, business, and community we serve.</p>
+                <p>By blending creativity, quality, and integrity, we aim to exceed expectations and leave a lasting impression in every home, business, and community we serve through our expert pool services. </p>
               </div>
             </div>
           </div><!-- End .content-->
@@ -106,7 +106,7 @@
 
       <div class="section-title" data-aos="fade-up">
         <h2>Our <strong>Skills</strong></h2>
-        <p>We offer a wide range of skills that ensure comprehensive plumbing solutions, from installation and maintenance to repair and troubleshooting, tailored to meet the unique needs of every client. Our expertise covers everything from pipefitting and leak detection to water heater installations and gas line repairs, providing reliable and efficient service across residential, commercial, and industrial plumbing projects.</p>
+        <p>We offer a wide range of skills that ensure comprehensive pool solutions—from installation and maintenance to repair and troubleshooting—tailored to meet the unique needs of every client. Our expertise covers everything from pool cleaning and equipment servicing to pump repairs, leak detection, and full system upgrades, providing reliable and efficient service across residential, commercial, and estate pool projects.</p>
       </div>
 
       <div class="row skills-content">

@@ -52,7 +52,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Welcome to <span><?php echo "$company"; ?></span></h2>
-        <p><?php echo "$company"; ?> specializes in providing top-quality pool services for residential, commercial, and estate properties. Our comprehensive range of solutions is tailored to meet your specific needs—ensuring crystal-clear water, efficient systems, and total customer satisfaction.</p>
+        <p><?php echo "$company"; ?> specializes in providing top-quality pool services for residential, commercial, and complex projects. Our comprehensive range of solutions is tailored to meet your specific needs, ensuring reliability, efficiency, and customer satisfaction.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
@@ -63,7 +63,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Our Goal</h2>
-        <p>Need a Reliable Pool Service Near You? <?php echo "$company"; ?> offers fast, 24/7 pool maintenance and repair with guaranteed workmanship and SANS-compliant solutions. Trust us to keep your pool clean, safe, and running smoothly.</p>
+        <p>Need reliable Pool Services Near You? <?php echo "$company"; ?> offers fast, 24/7 service with guaranteed workmanship and SANS-compliant solutions. Trust us for all your pool needs.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
@@ -74,7 +74,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Available 24 Hours</h2>
-        <p>No excuses. No “The subscriber you have dialled is unavailable…” At Mden Projects, we offer REAL 24-Hour Pool Service—no delays, no nonsense. When you need us most, we’re there with prestigious, professional pool care you can count on.</p>
+        <p>No Excuses. No “ the subscriber you have dialled is unavailable…”. We offer REAL 24 Hour Service. Let us HELP you when you need us most with PRESTIGEOUS services.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
@@ -105,7 +105,7 @@
           <div class="row">
             <div class="col-lg-9 text-center text-lg-left">
               <h3>We've completed more than <span>23 projects</span> since inception year!</h3>
-              <p>Since its inception over five years ago, Mden Projects has successfully completed numerous large-scale pool service and maintenance projects, establishing itself as a trusted pool care partner for estates, businesses, and institutions across South Africa.</p>
+              <p>Since its inception over five years ago, the company has successfully completed numerous large-scale plumbing projects, establishing itself as a trusted plumbing partner for many organizations across South Africa.</p>
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
               <a class="cta-btn align-middle" href="services.php">Read More</a>
@@ -124,21 +124,21 @@
           <div class="icon-box" data-aos="fade-up">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
             <h4 class="title"><a href="">Skilled Skills</a></h4>
-            <p class="description">Stay stress-free! Our skilled and experienced pool technicians will handle all your pool care needs—quickly, professionally, and with guaranteed results.</p>
+            <p class="description">Stay stress-free! Our skilled and experienced plumbers will take care of all your plumbing needs quickly and professionally.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
             <h4 class="title"><a href="">Registered Company</a></h4>
-            <p class="description">As a registered pool services company, our pump repairs, filter replacements, and system upgrades are recognized and accepted by insurance companies—ensuring a hassle-free claims process for our clients.</p>
+            <p class="description">As a registered plumbing company, our geyser repairs and replacements are recognized and accepted by insurance companies, ensuring a hassle-free claims process for our clients.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-bar-chart"></i></div>
             <h4 class="title"><a href="">Certificates of Compliance</a></h4>
-            <p class="description">Selling your home? We issue Certificates of Compliance (CoCs) for all pool systems and installations—ensuring your property meets regulatory standards and gives buyers peace of mind.</p>
+            <p class="description">Selling your home? We issue Certificates of Compliance on all Plumbing Installations.</p>
           </div>
         </div>
         <!-- <div class="col-lg-4 col-md-6">
@@ -204,7 +204,7 @@
 
       <div class="section-title" data-aos="fade-up">
         <h2>Our <strong>Clients</strong></h2>
-        <p>We offer free quotes because you matter to us! Our skilled pool technicians, backed by expert supervision, deliver top-quality workmanship on every project. With over five years of experience in the South African pool service industry, we guarantee reliable, professional, and customer-focused service every time.</p>
+        <p>We offer free quotes because you matter to us! Our skilled plumbers, backed by expert supervision, ensure top-quality workmanship on every project. With over five years of experience in the South African plumbing industry, we guarantee reliable and professional service.</p>
       </div>
 
       <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
