@@ -63,14 +63,14 @@
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
               <h4 class="title"><a href="">General Plumbing</a></h4>
-              <p class="description"><?php echo "$company"; ?> offers a full range of plumbing services in Fourways, handling installations, repairs, and maintenance with high-quality work. We ensure customer satisfaction with prompt, professional service for any plumbing issue, from leaky faucets to burst pipes.</p>
+              <p class="description"><?php echo "$company"; ?> offers a full range of pool services in Fourways, including cleaning, maintenance, repairs, and equipment installations. Our high-quality workmanship ensures crystal-clear water, optimal performance, and total client satisfaction.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="bi bi-card-checklist"></i></div>
-              <h4 class="title"><a href="">Leak Detection</a></h4>
-              <p class="description">We specialize in accurate leak detection using advanced technology to locate hidden leaks, preventing costly damage and lowering water bills. Our expert technicians provide timely and effective solutions for both homes and businesses.</p>
+              <h4 class="title"><a href="">Pool Leak Detection</a></h4>
+              <p class="description">We specialize in accurate pool leak detection using advanced equipment to locate and resolve hidden leaks—saving you water, money, and structural damage. Our technicians deliver fast, effective solutions for both residential and commercial pools.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6">
@@ -83,43 +83,43 @@
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-binoculars"></i></div>
-            <h4 class="title"><a href="">Hydro Drain Jetting</a></h4>
-            <p class="description">We offer hydro drain jetting, a high-pressure water solution for clearing tough blockages and cleaning pipes, preventing future issues. Our team ensures optimal flow and smooth operation of your plumbing system.</p>
+            <h4 class="title"><a href="">Pool Hydro Jetting</a></h4>
+            <p class="description">We offer high-pressure hydro jetting to thoroughly clean blocked or sluggish pool plumbing lines. This solution clears tough blockages and helps maintain long-term system efficiency.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">24/7 Plumbing</a></h4>
-            <p class="description"><?php echo "$company"; ?> provides 24/7 emergency plumbing services in Fourways, handling urgent issues like burst pipes and overflowing toilets. We respond quickly to minimize damage and restore your plumbing system at any time, day or night.</p>
+            <h4 class="title"><a href="">24/7 Emergency Pool Services</a></h4>
+            <p class="description"><?php echo "$company"; ?> provides 24/7 emergency pool support in Fourways. From failing pumps to unexpected leaks, we’re available around the clock to minimize disruption and restore your pool quickly and professionally.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Bathroom Renovations</a></h4>
-            <p class="description">We specialize in bathroom renovations in Fourways, offering stylish, functional designs tailored to your needs. Our team guides you through the entire process, ensuring high-quality results that transform your bathroom into a luxurious, value-adding space.</p>
+            <h4 class="title"><a href="">Pool Renovations</a></h4>
+            <p class="description">Transform your old or damaged pool with our expert pool renovation services. Whether it's resurfacing, retiling, or modernizing your equipment, we bring your vision to life with a beautiful, functional upgrade.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Geyser Installations & Repairs</a></h4>
-            <p class="description"><?php echo "$company"; ?> offers expert geyser installation and repair services in Fourways. Whether you need a new geyser installed or an existing one repaired, our skilled technicians ensure optimal performance, energy efficiency, and reliability for your home or business.</p>
+            <h4 class="title"><a href="">Pool Pump & Equipment Installations & Repairs</a></h4>
+            <p class="description"><?php echo "$company"; ?> We install and repair pool pumps, filters, chlorinators, and more. Mden Projects ensures your equipment runs efficiently, extending its lifespan while keeping your water clean and safe.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Gas Line Installations & Repairs</a></h4>
-            <p class="description">We specialize in safe and efficient gas line installations and repairs in Fourways. Our certified plumbers ensure that all gas systems meet safety regulations, providing peace of mind while maintaining a smooth and reliable gas supply.</p>
+            <h4 class="title"><a href="">Solar & Heat Pump Installations for Pools</a></h4>
+            <p class="description">Enjoy year-round swimming with our solar heating and heat pump solutions. We design and install energy-efficient systems to maintain your pool’s temperature while saving on energy costs.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Water Filtration Systems</a></h4>
-            <p class="description">We offer professional installation and maintenance of water filtration systems in Fourways. Our team helps ensure your water is clean, safe, and free from contaminants, enhancing the quality of water in your home or business for drinking, cooking, and daily use.</p>
+            <h4 class="title"><a href="">Pool Water Filtration & Treatment Systems</a></h4>
+            <p class="description">We provide professional water filtration and treatment system installation and maintenance. Our solutions help maintain crystal-clear, healthy water, free of harmful bacteria and contaminants.</p>
           </div>
         </div>
         <!-- <div class="col-lg-4 col-md-6">
