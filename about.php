@@ -213,8 +213,8 @@
 
       <div class="section-title" data-aos="fade-up">
         <h2>Our <strong>Clients</strong></h2>
-        <p><?php echo "$company"; ?> offers free quotes because you matter to us! Our skilled plumbers, backed by expert supervision, ensure top-quality workmanship on every project. With over five years of experience in the South African plumbing industry, we guarantee reliable and professional service.
-
+        <p>
+          We offer free quotes because you matter to us! Our skilled pool technicians, supported by expert supervision, deliver top-quality workmanship on every project. With over five years of experience in the South African pool service industry, we guarantee reliable, professional, and efficient service—every time.
         </p>
       </div>
 
