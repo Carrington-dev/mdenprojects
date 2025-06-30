@@ -62,7 +62,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="bi bi-briefcase"></i></div>
-              <h4 class="title"><a href="">General Plumbing</a></h4>
+              <h4 class="title"><a href="">General Pool Service</a></h4>
               <p class="description"><?php echo "$company"; ?> offers a full range of pool services in Fourways, including cleaning, maintenance, repairs, and equipment installations. Our high-quality workmanship ensures crystal-clear water, optimal performance, and total client satisfaction.</p>
             </div>
           </div>
@@ -76,8 +76,8 @@
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="bi bi-bar-chart"></i></div>
-              <h4 class="title"><a href="">Blocked Drains</a></h4>
-              <p class="description"><?php echo "$company"; ?> efficiently clears blocked drains in Fourways, tackling issues like tree roots and grease build-up. We use the latest equipment for quick diagnoses and provide preventative tips to avoid future blockages.</p>
+              <h4 class="title"><a href="">Blocked Pool Pipes</a></h4>
+              <p class="description"><?php echo "$company"; ?> expertly clears blocked pool pipes and drains caused by debris, roots, or scale build-up. Using advanced diagnostic tools and techniques, we quickly identify and resolve issues, providing preventative maintenance to ensure your pool’s plumbing system stays clear and operates efficiently.</p>
             </div>
           </div>
         <div class="col-lg-4 col-md-6">
