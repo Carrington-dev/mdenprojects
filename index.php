@@ -52,7 +52,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Welcome to <span><?php echo "$company"; ?></span></h2>
-        <p><?php echo "$company"; ?> specializes in providing top-quality plumbing services for residential, commercial, and complex projects. Our comprehensive range of solutions is tailored to meet your specific needs, ensuring reliability, efficiency, and customer satisfaction.</p>
+        <p><?php echo "$company"; ?> specializes in providing top-quality pool services for residential, commercial, and estate properties. Our comprehensive range of solutions is tailored to meet your specific needs—ensuring crystal-clear water, efficient systems, and total customer satisfaction.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
@@ -63,7 +63,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Our Goal</h2>
-        <p>Need a reliable Plumber Near You? <?php echo "$company"; ?> offers fast, 24/7 service with guaranteed workmanship and SANS-compliant solutions. Trust us for all your plumbing needs.</p>
+        <p>Need a Reliable Pool Service Near You? <?php echo "$company"; ?> offers fast, 24/7 pool maintenance and repair with guaranteed workmanship and SANS-compliant solutions. Trust us to keep your pool clean, safe, and running smoothly.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
@@ -74,7 +74,7 @@
     <div class="carousel-container">
       <div class="carousel-content animate__animated animate__fadeInUp">
         <h2>Available 24 Hours</h2>
-        <p>No Excuses. No “ the subscriber you have dialled is unavailable…”. We offer REAL 24 Hour Service. Let us HELP you when you need us most with PRESTIGEOUS services.</p>
+        <p>No excuses. No “The subscriber you have dialled is unavailable…” At Mden Projects, we offer REAL 24-Hour Pool Service—no delays, no nonsense. When you need us most, we’re there with prestigious, professional pool care you can count on.</p>
         <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
       </div>
     </div>
@@ -105,7 +105,7 @@
           <div class="row">
             <div class="col-lg-9 text-center text-lg-left">
               <h3>We've completed more than <span>23 projects</span> since inception year!</h3>
-              <p>Since its inception over five years ago, the company has successfully completed numerous large-scale plumbing projects, establishing itself as a trusted plumbing partner for many organizations across South Africa.</p>
+              <p>Since its inception over five years ago, Mden Projects has successfully completed numerous large-scale pool service and maintenance projects, establishing itself as a trusted pool care partner for estates, businesses, and institutions across South Africa.</p>
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
               <a class="cta-btn align-middle" href="services.php">Read More</a>
