@@ -39,8 +39,8 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
-            <p>Sign up for our newsletter to get the latest insights, tips and trends in Data Analytics, Research and More.
-
+            <p>
+              Sign up for our newsletter to get the latest tips, trends, and expert advice on pool maintenance, water care, energy-saving solutions, and more—straight to your inbox!
             </p>
             <form action="forms/subscribe.php" method="post">
               
