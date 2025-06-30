@@ -30,10 +30,10 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="services.php">Leak Detection</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="services.php">Water Pressure Regulation</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Installation</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Pool Installation</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="services.php">Troubleshooting</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="services.php">Water Filtration Systems              </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Drain Cleaning</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.php">Pool Cleaning</a></li>
             </ul>
           </div>
 
