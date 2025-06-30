@@ -124,21 +124,21 @@
           <div class="icon-box" data-aos="fade-up">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
             <h4 class="title"><a href="">Skilled Skills</a></h4>
-            <p class="description">Stay stress-free! Our skilled and experienced plumbers will take care of all your plumbing needs quickly and professionally.</p>
+            <p class="description">Stay stress-free! Our skilled and experienced pool technicians will handle all your pool care needs—quickly, professionally, and with guaranteed results.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
             <h4 class="title"><a href="">Registered Company</a></h4>
-            <p class="description">As a registered plumbing company, our geyser repairs and replacements are recognized and accepted by insurance companies, ensuring a hassle-free claims process for our clients.</p>
+            <p class="description">As a registered pool services company, our pump repairs, filter replacements, and system upgrades are recognized and accepted by insurance companies—ensuring a hassle-free claims process for our clients.</p>
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
           <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-bar-chart"></i></div>
             <h4 class="title"><a href="">Certificates of Compliance</a></h4>
-            <p class="description">Selling your home? We issue Certificates of Compliance on all Plumbing Installations.</p>
+            <p class="description">Selling your home? We issue Certificates of Compliance (CoCs) for all pool systems and installations—ensuring your property meets regulatory standards and gives buyers peace of mind.</p>
           </div>
         </div>
         <!-- <div class="col-lg-4 col-md-6">
@@ -204,7 +204,7 @@
 
       <div class="section-title" data-aos="fade-up">
         <h2>Our <strong>Clients</strong></h2>
-        <p>We offer free quotes because you matter to us! Our skilled plumbers, backed by expert supervision, ensure top-quality workmanship on every project. With over five years of experience in the South African plumbing industry, we guarantee reliable and professional service.</p>
+        <p>We offer free quotes because you matter to us! Our skilled pool technicians, backed by expert supervision, deliver top-quality workmanship on every project. With over five years of experience in the South African pool service industry, we guarantee reliable, professional, and customer-focused service every time.</p>
       </div>
 
       <div class="row no-gutters clients-wrap clearfix" data-aos="fade-up">
